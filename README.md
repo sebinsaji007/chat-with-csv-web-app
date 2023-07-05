@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="your-logo.png" alt="Your Project Logo" width="200">
-</div>
+
 
 # chat with csv
 
