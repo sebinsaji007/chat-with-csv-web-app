@@ -24,7 +24,7 @@ Follow the steps below to get started with the project:
 1. **Clone** this repository to your local machine.
 2. Install the required libraries as mentioned in the prerequisites.
 3. Set up the API key for the OpenAI language model. You can obtain the API key from [OpenAI](https://openai.com/).
-4. Create a **virtual environment** (recommended) and activate it.
+4. make a .env file write   `apikey = "your_openai_key"`.
 5. Run `file2.py` using the command `streamlit run file2.py`.
 6. The Streamlit app will open in your browser.
 7. Upload a CSV file by clicking the "Upload a CSV file" button.
